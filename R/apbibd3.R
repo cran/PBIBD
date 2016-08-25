@@ -1,0 +1,22 @@
+apbibd3 <-
+function(v,r,k,l,n,P){
+A1<-r*(k-1)+l[3]
+A2<-l[3]-l[1]
+A3<-l[3]-l[2]
+B1<-(l[2]-l[1])*P[[3]][1,2]+A2*P[[3]][1,3]
+B2<-A1+A2*(P[[1]][1,1]-P[[3]][1,1])+A3*(P[[1]][1,2]-P[[3]][1,2])
+B3<-A2*(P[[2]][1,1]-P[[3]][1,1])+A3*(P[[2]][1,2]-P[[3]][1,2])
+C1<-(l[1]-l[2])*P[[3]][2,1]+A3*P[[3]][2,3]
+C2<-A2*(P[[1]][2,1]-P[[3]][2,1])+A3*(P[[1]][2,2]-P[[3]][2,2])
+C3<-A1+A2*(P[[2]][2,1]-P[[3]][2,1])+A3*(P[[2]][2,2]-P[[3]][2,2])
+F<-matrix(c(B2,C2,B3,C3),2,2)
+G<-matrix(c(A2,C2,A3,C3),2,2)
+H<-matrix(c(A2,B2,A3,B3),2,2)
+del<-A1*det(F)-B1*det(G)+C1*det(H)
+E1<-del/(r*k*(det(F)+det(G)))
+E2<-del/(r*k*(det(F)-det(H)))
+E3<-del/(r*k*(det(F)))
+E<-del*(v-1)/(r*k*((v-1)*det(F)+n[1]*det(G)-n[2]*det(H)))
+lst<-list(Efficiency_E1=E1,Efficiency_E2=E2,Efficienct_E3=E3,Overall_Efficiency_Factor=E)
+return(lst)
+}
