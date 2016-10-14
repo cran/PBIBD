@@ -13,10 +13,10 @@
 }
 \value{
 Returns a list with five components:
-         \item{Efficieny_E1}{Efficiency E1 of the design}
-         \item{Efficieny_E2}{Efficiency E2 of the design}
-         \item{Efficieny_E3}{Efficiency E3 of the design}
-         \item{Efficieny_E4}{Efficiency E4 of the design}
+         \item{Efficiency_E1}{Efficiency E1 of the design}
+         \item{Efficiency_E2}{Efficiency E2 of the design}
+         \item{Efficiency_E3}{Efficiency E3 of the design}
+         \item{Efficiency_E4}{Efficiency E4 of the design}
          \item{Overall_Efficiency_Factor}{Overall efficiency factor of the design}
 }
 \references{Garg, D.K. and Mishra, G.(2013). General solution of normal equations in the intra-block analysis of PBIB designs with four associates. Journal of Mathematics and System Sciences. 3,412-416}

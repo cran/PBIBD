@@ -13,15 +13,15 @@
 }
 \value{
 Returns a list with six components:
-         \item{Efficieny_E1}{Efficiency E1 of the design}
-         \item{Efficieny_E2}{Efficiency E2 of the design}
-         \item{Efficieny_E3}{Efficiency E3 of the design}
-         \item{Efficieny_E4}{Efficiency E4 of the design}
-         \item{Efficieny_E5}{Efficiency E5 of the design}
+         \item{Efficiency_E1}{Efficiency E1 of the design}
+         \item{Efficiency_E2}{Efficiency E2 of the design}
+         \item{Efficiency_E3}{Efficiency E3 of the design}
+         \item{Efficiency_E4}{Efficiency E4 of the design}
+         \item{Efficiency_E5}{Efficiency E5 of the design}
          \item{Overall_Efficiency_Factor}{Overall efficiency factor of the design}
 }
 \references{Garg, D.K., and Singh, G.P. (2014). Analysis and general solution of normal equations for five associate class PBIB designs. Global Journal for Research Analysis. 3(11), 16-19}
-\author{Parneet Kaur, Kush Sharma, Davinder Kumar Garg}
+\author{Kush Sharma, Parneet Kaur, Davinder Kumar Garg}
 \examples{
 v<-25
 r<-9

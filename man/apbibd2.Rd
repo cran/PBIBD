@@ -13,12 +13,12 @@
 }
 \value{
 Returns a list with three components:
-         \item{Efficieny_E1}{Efficiency E1 of the design}
-         \item{Efficieny_E2}{Efficiency E2 of the design}
+         \item{Efficiency_E1}{Efficiency E1 of the design}
+         \item{Efficiency_E2}{Efficiency E2 of the design}
          \item{Overall_Efficiency_Factor}{Overall efficiency factor of the design}
 }
 \references{Dey,A. (1986). Theory of block designs.Wiley Eastern Limited, New Delhi}
-\author{Parneet Kaur, Kush Sharma, Davinder Kumar Garg}
+\author{Kush Sharma, Parneet Kaur, Davinder Kumar Garg}
 \examples{
 v<-10
 r<-6

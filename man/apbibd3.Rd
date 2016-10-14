@@ -13,9 +13,9 @@
 }
 \value{
 Returns a list with four components:
-         \item{Efficieny_E1}{Efficiency E1 of the design}
-         \item{Efficieny_E2}{Efficiency E2 of the design}
-         \item{Efficieny_E3}{Efficiency E3 of the design}
+         \item{Efficiency_E1}{Efficiency E1 of the design}
+         \item{Efficiency_E2}{Efficiency E2 of the design}
+         \item{Efficiency_E3}{Efficiency E3 of the design}
          \item{Overall_Efficiency_Factor}{Overall efficiency factor of the design}
 }
 \references{Rao, C. R. (1947b). General methods of analysis for incomplete block designs, J. Amer. Statist. Assoc. 42, 541-561}

@@ -1,3 +1,4 @@
+export(apbibd)
 export(apbibd2)
 export(apbibd3)
 export(apbibd4)

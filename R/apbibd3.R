@@ -17,6 +17,6 @@ E1<-del/(r*k*(det(F)+det(G)))
 E2<-del/(r*k*(det(F)-det(H)))
 E3<-del/(r*k*(det(F)))
 E<-del*(v-1)/(r*k*((v-1)*det(F)+n[1]*det(G)-n[2]*det(H)))
-lst<-list(Efficiency_E1=E1,Efficiency_E2=E2,Efficienct_E3=E3,Overall_Efficiency_Factor=E)
+lst<-list(Efficiency_E1=E1,Efficiency_E2=E2,Efficiency_E3=E3,Overall_Efficiency_Factor=E)
 return(lst)
 }
