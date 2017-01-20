@@ -19,7 +19,6 @@ Returns a list with five components:
          \item{Efficiency_E4}{Efficiency E4 of the design}
          \item{Overall_Efficiency_Factor}{Overall efficiency factor of the design}
 }
-\references{Garg, D.K. and Mishra, G.(2013). General solution of normal equations in the intra-block analysis of PBIB designs with four associates. Journal of Mathematics and System Sciences. 3,412-416}
 \author{Kush Sharma, Parneet Kaur, Davinder Kumar Garg}
 \examples{
 v<-12

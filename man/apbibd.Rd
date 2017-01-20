@@ -18,7 +18,6 @@ Returns a list with (m+1) components:
          \item{Em}{Efficiency Em of the design}
          \item{E}{Overall efficiency factor of the design}
 }
-\references{Garg, D.K., and Singh, G.P. (2015). General solution of normal equations in the intra-block analysis of PBIB designs with any (m>=2) number of associate classes. American Journal of Sustainable Cities and Society, 4(11), 196-202}
 \author{Kush Sharma, Parneet Kaur, Davinder Kumar Garg}
 \examples{
 v<-25

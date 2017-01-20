@@ -17,7 +17,6 @@ Returns a list with three components:
          \item{Efficiency_E2}{Efficiency E2 of the design}
          \item{Overall_Efficiency_Factor}{Overall efficiency factor of the design}
 }
-\references{Dey,A. (1986). Theory of block designs.Wiley Eastern Limited, New Delhi}
 \author{Kush Sharma, Parneet Kaur, Davinder Kumar Garg}
 \examples{
 v<-10

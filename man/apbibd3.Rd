@@ -18,7 +18,6 @@ Returns a list with four components:
          \item{Efficiency_E3}{Efficiency E3 of the design}
          \item{Overall_Efficiency_Factor}{Overall efficiency factor of the design}
 }
-\references{Rao, C. R. (1947b). General methods of analysis for incomplete block designs, J. Amer. Statist. Assoc. 42, 541-561}
 \author{Kush Sharma, Parneet Kaur, Davinder Kumar Garg}
 \examples{
 v<-15

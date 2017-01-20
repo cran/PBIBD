@@ -3,7 +3,7 @@
 \alias{PBIBD}
 \docType{package}
 \title{Partially Balanced Incomplete Block Designs}
-\description{Assists in calculating the efficiencies of Partially Balanced Incomplete Block Designs with any number of associate classes. This will help the researchers in calculating the efficiencies of their PBIB designs very quickly and efficiently.}
+\description{It constructs four series of PBIB designs and also assists in calculating the efficiencies of PBIB Designs with any number of associate classes. This will help the researchers in adopting a PBIB designs and calculating the efficiencies of any PBIB design very quickly and efficiently.}
 \details{
 
 The DESCRIPTION file:
@@ -29,6 +29,8 @@ Garg, D.K., and Singh, G.P. (2014). Analysis and general solution of normal equa
 
 Garg, D.K., and Singh, G.P. (2015). General solution of normal equations in the intra-block analysis of PBIB designs with any (m>=2) number of associate classes. American Journal of Sustainable Cities and Society, 4(11), 196-202
 
+Kaur, P. and Garg, D.K. (2016). Construction of some higher associate class PBIB designs using symmetrically repeated differences, Arya Bhatta Journal of Mathematics and Informatics, 8(2), 65-78.
+
 Rao, C. R. (1947b). General methods of analysis for incomplete block designs, J. Amer. Statist. Assoc. 42, 541-561
 }
 \keyword{Partially Balanced Incomplete Block Designs}
@@ -38,4 +40,6 @@ Rao, C. R. (1947b). General methods of analysis for incomplete block designs, J.
 \keyword{Four-associate class PBIB Design}
 \keyword{Five-associate class PBIB Design}
 \keyword{m-associate class PBIB Design}
+\keyword{Construction of PBIB designs}
+\keyword{Symmetric differences}
 

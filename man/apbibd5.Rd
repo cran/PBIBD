@@ -20,7 +20,6 @@ Returns a list with six components:
          \item{Efficiency_E5}{Efficiency E5 of the design}
          \item{Overall_Efficiency_Factor}{Overall efficiency factor of the design}
 }
-\references{Garg, D.K., and Singh, G.P. (2014). Analysis and general solution of normal equations for five associate class PBIB designs. Global Journal for Research Analysis. 3(11), 16-19}
 \author{Kush Sharma, Parneet Kaur, Davinder Kumar Garg}
 \examples{
 v<-25
