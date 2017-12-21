@@ -29,6 +29,8 @@ kk<-kk+1
 }
 }
 }
+print(M)
+print(B)
 cont<-1
 cnt<-1
 for(j in 1:(n-1)){
