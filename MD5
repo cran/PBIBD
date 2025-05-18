@@ -1,6 +1,5 @@
-c6cf627ad3ab54a3a212436ea9167d52 *DESCRIPTION
-c0d1fd26016b95b22d9c642ebf2e82d8 *NAMESPACE
-d708e28cc17909b71d04bf109103a001 *R/PBIBD-internal.R
+f6c45d5d8898b509fe6ce9bdc37a1b80 *DESCRIPTION
+573821f98fd660da6cb05ba6f7686e77 *NAMESPACE
 e10a1830a19279eb5fdcfbe65936ece6 *R/apbibd.R
 c6ea2726d99e4fb7f84dcc24d9b334ac *R/circulant.R
 92d67e9eafe413988d6ab29977400a5f *R/series1.R
@@ -13,7 +12,7 @@ cdd3cbd22b10ee914937b3098e86b166 *R/series6.R
 280787b89202351e9afc692c5ccae893 *R/ym1.R
 7d8b6311d36b6ba2a8ba387cc395eb70 *R/ym2.R
 3dfff733f805868806fcd8e06359ead5 *R/ym3.R
-cde67f908849171251358cfac5057447 *build/partial.rdb
+b66658882e55d733845d70931e2f2927 *build/partial.rdb
 fc6e490409e4c271c736a609325181d4 *man/PBIBD-package.Rd
 7de01001cf932e2e06e70ed0deba2c87 *man/apbibd.Rd
 38afbf5aa113417421cfe011e4c55dde *man/circulant.Rd
@@ -24,6 +23,6 @@ edf9c9006b6b2e9267a6cd326c3dc0a9 *man/series4.Rd
 7de4ab8246719594387ba87816bbf30a *man/series5.Rd
 68baf5a3acc77ce79dee6301918862a9 *man/series6.Rd
 efdb240a6b3e6913851ed4bbf69c6a4f *man/verify.Rd
-a5ab01149b232e7811e796d4b4e26960 *man/ym1.Rd
-84627aa645e82cd4f1e9886091389a23 *man/ym2.Rd
-4fb00d5fa8dc1533ef0019867de4bf12 *man/ym3.Rd
+04f513f3577356626a2c23ca53760d51 *man/ym1.Rd
+ee05069607435aa5e30ad2e4cda5db73 *man/ym2.Rd
+afe9e4f1ae0084708af8af0d587ab580 *man/ym3.Rd
